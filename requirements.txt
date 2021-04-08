@@ -2,7 +2,7 @@
 better-profanity==0.6.1
 click==7.1.2
 joblib==0.15.1
-nltk==3.5
+nltk==3.6
 regex==2020.5.14
 selenium==3.141.0
 textblob==0.15.3
